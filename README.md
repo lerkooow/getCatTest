@@ -10,6 +10,7 @@ React, styled-components, SCSS, CSS Modules, TheCatAPI
 
 ## Ссылка на деплой проекта:
 
+https://get-cat-test.vercel.app/
 
 ## Установка и запуск приложения:
 
